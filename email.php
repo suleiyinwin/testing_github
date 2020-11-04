@@ -1,3 +1,4 @@
 <?php
 echo "sending email";
-echo "another email sent"
+echo "another email sent";
+echo "third line from cli";
